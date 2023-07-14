@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import PokedexScreen from "../screens/PokedexScreen/PokedexScreen";
 import PokemonDetailScreen from "../screens/PokemonsDetailScreen/PokemonDetailScreen";
@@ -17,3 +17,4 @@ const Router = () => {
 }
 
 export default Router;
+*/
