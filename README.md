@@ -1,6 +1,6 @@
 
-# pokedex
-Link: https://hallowed-paper.surge.sh/
+# Pokedex
+Link Para Poder Ver a Pokedex: https://hallowed-paper.surge.sh/
 
 Utilizei React, javascript para criar.
 No momento eu não consegui pegar os detalhes que ficam na tela do pokedex.
