@@ -43,3 +43,20 @@ export const Name = styled.p `
     letter-spacing: -0.02em;
     color: black;
 `
+
+export const Button = styled.button `
+    width: 120px;
+    height: 39px;
+    background: #FA2C11;
+    color: #FFFFFF;
+
+
+    font-family: Wendy One;
+    font-size: 17px;
+    border: none;
+    border-radius: 360px;
+    &:hover{
+        box-shadow: 5px 10px 18px gray;
+        cursor: pointer;
+    }
+`
